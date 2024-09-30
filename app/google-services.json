@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "523935966483",
+    "firebase_url": "https://anchorfinder-fe9e6-default-rtdb.firebaseio.com",
+    "project_id": "anchorfinder-fe9e6",
+    "storage_bucket": "anchorfinder-fe9e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523935966483:android:601c81a71f38ff6bdd66e6",
+        "android_client_info": {
+          "package_name": "com.anchorfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6VauRsx9Yp8rYlm23nhmhoUu2vtAbH94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
